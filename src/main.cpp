@@ -133,7 +133,6 @@ if (u != 0 && v != 0) render_marker();
 
 void SDL_AppQuit(void *appstate, SDL_AppResult result){
     
-SDL_DestroyTexture(bckg);
 SDL_DestroyRenderer(renderer);
 SDL_DestroyWindow(window);
 
