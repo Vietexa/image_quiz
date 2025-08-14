@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/vietexa/Desktop/image_quiz/build/cmake_install.cmake",
+		"/home/vietexa/Desktop/image_quiz/build/src/cmake_install.cmake",
+		"/home/vietexa/Desktop/image_quiz/build/vendored/SDL/cmake_install.cmake",
+		"/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_image/cmake_install.cmake",
+		"/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_ttf/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

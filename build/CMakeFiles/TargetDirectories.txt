@@ -1,0 +1,16 @@
+/home/vietexa/Desktop/image_quiz/build/CMakeFiles/edit_cache.dir
+/home/vietexa/Desktop/image_quiz/build/CMakeFiles/rebuild_cache.dir
+/home/vietexa/Desktop/image_quiz/build/src/CMakeFiles/app.dir
+/home/vietexa/Desktop/image_quiz/build/src/CMakeFiles/edit_cache.dir
+/home/vietexa/Desktop/image_quiz/build/src/CMakeFiles/rebuild_cache.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL/CMakeFiles/SDL3_test.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL/CMakeFiles/edit_cache.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL/CMakeFiles/rebuild_cache.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_image/CMakeFiles/SDL3_image-shared.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_image/CMakeFiles/edit_cache.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_image/CMakeFiles/rebuild_cache.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_ttf/CMakeFiles/SDL3_ttf-shared.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_ttf/CMakeFiles/edit_cache.dir
+/home/vietexa/Desktop/image_quiz/build/vendored/SDL3_ttf/CMakeFiles/rebuild_cache.dir
